@@ -1,0 +1,13 @@
+{
+  "name": "cli-calculator",
+  "version": "1.0.0",
+  "description": "Node.js CLI calculator lab",
+  "type": "module",
+  "main": "calculator.js",
+  "scripts": {
+    "start": "node calculator.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
